@@ -3,7 +3,7 @@
 body {
     /*background: linear-gradient(#ffffff,#000000);*/
     background-color: #ffffff;
-    font-family: merriweatherregular;
+    font-family: merriweather;
     font-size: 14pt;
     /*background-image: url('/assets/images/kanyewesty.jpg');*/
     /*background-color: white;*/
@@ -124,7 +124,7 @@ body {
 
 .poem pre{
     text-align: left;
-    font-family: merriweatherregular;
+    font-family: merriweather;
 }
 
 /*Prose*/
@@ -139,7 +139,7 @@ body {
     text-align: justify;
     margin: 0;
     text-indent: 4em;
-    font-family: merriweatherregular;
+    font-family: merriweather;
 }
 
 /*Art*/
