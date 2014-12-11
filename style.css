@@ -3,13 +3,17 @@
 body {
     /*background: linear-gradient(#ffffff,#000000);*/
     background-color: #ffffff;
-    font-family: linden_hill;
+    font-family: 'Linden Hill',serif;
     font-size: 16pt;
     /*background-image: url('/assets/images/kanyewesty.jpg');*/
     /*background-color: white;*/
 }
 
 /*Navbar stuff*/
+
+#staff ul{
+    list-style-type:none;
+}
 
 #navbar {
     position: fixed;
@@ -124,7 +128,7 @@ body {
 
 .poem pre{
     text-align: left;
-    font-family: linden_hill;
+    font-family: 'Linden Hill',serif;
 }
 
 /*Prose*/
@@ -139,7 +143,7 @@ body {
     text-align: justify;
     margin: 0;
     text-indent: 4em;
-    font-family: linden_hill;
+    font-family: 'Linden Hill',serif;
 }
 
 /*Art*/
